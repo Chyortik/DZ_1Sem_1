@@ -16,5 +16,5 @@ if(max < number3)
 {
     max = number3;
 }
-Console.WriteLine(max);
+Console.Write(max);
 
